@@ -20,6 +20,12 @@
 सदर योजनेचा वित्तीय आकृतीबंध पुढीलप्रमाणे राहील.
 # Page 2
 शासन निर्णय क्रमांकः रासयो-२०१९/प्र.क्र.७४/तां.क.२
+----------------------------------------------------------------
+|  | अ.क्र |  |  | हिस्सा |  |  | मंजूर निधी (रुपये) |  |  | अक्षरी मंजूर निधी |  |
+| १ | ८०% राज्य हिस्सा | २,८०,००,०००/- | रुपये दोन कोटी ऐंशी लक्ष फक्त |
+| २ | २०% नगर परिषद हिस्सा | ७०,००,०००/- | रुपये सत्तर लक्ष फक्त |
+|  | एकूण | ३,५०,००,०००/- | रुपये तीन कोटी पन्नास लक्ष फक्त |
+----------------------------------------------------------------
 अ. सविस्तर अहवालात नमूद केल्यानुसार तलाव पाण्याचे प्रदूषण होत असलेल्या पाणलोट क्षेत्रातील अनधिकृत वाहती प्रथमत: हटवून तदनंतरच इतर कामे राबविण्यात यावी
 ब. एकूण मंजूर निधीपैकी नगर परिषद हिस्सा हा राज्य शासनामार्फत निर्गमित केलेल्या हिश्श्याच्या २०% याप्रमाणे प्रथमत: बँक खात्यात जमा करण्यात यावा.
 क. उत्सवांच्या कालावधीत निर्माल्य वा मूर्त्यांचे विसर्जन वा तत्सम बाबींमुळे तलावातील पाण्याचे प्रदुषण होणार नाही याची दक्षता घेण्यात यावी.
@@ -67,6 +73,43 @@ Shuddhodhan D Aher
 शासन निर्णय क्र.रासयो-२०१९/प्र.क्र.७४/तां.क.२, दिनांक ०७ मार्च, २०१९ सोबतचे सहपत्र
 प्रपत्र-अ”
 नगर परिषद चिपळूण, जि. रत्नागिरी येथील नारायण तलाव
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Item No | Description | Amount |
+|  | Core Work |  |
+| 1 | De-silting | 18,00,000.00 |
+|  | Area = 10500 Sq.M |  |
+| 2 | CLEANING AND DE WEDING OF OLD RETAINING WALL | 36,000.00 |
+|  | Area 2500 cum |
+| 3 | PROVIDING EMANKMENT OF GABION WALL (SHORELINE DEVELOPMENT) 1 NO. =1.0 x 1.0x1.0M (450*2=900+900+450+450=2700 CuM) With soling and coping Etc | 75,00,000.00 |
+| 4 | STONE PITCHING/BUND STRENCTHING | 5,95,500.00 |
+| 5 | CONSTRUCTION OF RCC / STONE MASSONARY CURB (SAFTY WALL) AROUND LAKE | 7,80,000.00 |
+| 6 | PROVIDING TOILET BLOCK | 5,00,000.00 |
+| 7 | STORM WATER DIVERSION CHANNEL | 20,00,000.00 |
+| 8 | GARDEN, PLATFORM & LANDSCAPING | 1,00,00,000.00 |
+| 9 | HANDRAILING AT PERIPHERI OF THE LAKE | 20,00,000.00 |
+| 10 | CONSTRUCTION OF CHAIN LINK FENCING ALONG THE PERIPHRI OF LAKE | 28,80,000.00 |
+|  | TOTAL CORE WORK | 2,80,91,500.00 |
+|  | NON-CORE WORK |  |
+| 1 | PATHWAY OF PAVOR BLOCK | 15,00,000.00 |
+| 2 | PROVIDING & FIXING BENCHES & GATES |  |
+|  | Benches of cement concrete (40) | 4,00,000.00 |
+|  | Gates | 60,000.00 |
+| 3 | PROVIDING SOLAR SYSTEM |  |
+|  | Solar Light (40 Nos) | 16,00,000.00 |
+| 4 | FOUNTAIN on Solar (2 EAST & WEST SIDE OF ISLAND OF LAKE) | 10,00,000.00 |
+| 5 | ENV. AWARENESS AND PUBLIC PARTICIPATION |  |
+| a | Creating and fixing monuments for environmental awareness as site | 1,00,000.00 |
+| b | Providing dustbin about 5 Location | 50,000.00 |
+| 6 | QUALITY CONTROL | 1,00,000.00 |
+| 7 | DPR Preparation and PMC | 6,50,000.00 |
+|  | TOTAL Non-core | 54,60,000.00 |
+|  | Total core work + Non - core work | 3,35,51,500.00 |
+|  | Add 1% for Insurance | 3,35,515.00 |
+|  |  | 3,38,87015.00 |
+|  | Add work contingency 3% | 10,16,610.45 |
+|  | Grand Total | 3,49,03,625.45 |
+|  | Say Rs - Three crore Fifty lacks only | 3,50,00000.00 |
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
 Digitally signed by Shuddhodhan D Aher Shuddhodhan DN: CN=Shuddhodhan D Aher, C = IN, S = Maharashtra, O = Government of Maharashtra, OU = Environment D Aher Department
 Date: 2019.03.07 18:06:48 +05'30' शु. द. आहेर
 उप सचिव, पर्यावरण विभाग
