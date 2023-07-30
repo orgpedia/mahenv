@@ -3738,5 +3738,18 @@
     "name": "mahenv-298.pdf",
     "num_pages": 3,
     "large_image_idxs": []
+  },
+  "/import/websites/gr.maharashtra.gov.in/Environment/29-Jul-2023/202307241728374104.pdf": {
+    "code": "202307241728374104",
+    "crawl_dir": "29-Jul-2023",
+    "date": "24-07-2023",
+    "dept": "Environment Department",
+    "download_time": "2023-07-29T13:55:55.308197",
+    "size_kb": "457",
+    "text": "Regarding the formation of a technical committee to make recommendations to the government regarding the celebration of eco-friendly festivals.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307241728374104.pdf",
+    "name": "mahenv-299.pdf",
+    "num_pages": 3,
+    "large_image_idxs": []
   }
 }
